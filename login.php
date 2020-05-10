@@ -19,6 +19,7 @@ if(isset($_POST['usuario'])) {
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta author="Guilherme Costa de Medeiros">
     <meta charset="utf-8">
     <title>Login</title>
     <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.min.css">
